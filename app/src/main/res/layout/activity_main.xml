@@ -8,7 +8,7 @@
     android:orientation="vertical">
 
 
-    <comwow2778.naver.blog.app10.addcart
+    <comwow2778.naver.blog.app11.addcart
         android:id="@+id/cart"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
@@ -23,7 +23,7 @@
 
     </GridView>
 
-    <comwow2778.naver.blog.app10.addfruit
+    <comwow2778.naver.blog.app11.addfruit
         android:id="@+id/add"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
